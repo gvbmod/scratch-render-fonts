@@ -1,0 +1,8 @@
+SansSerif:NotoSans-Medium.ttf
+Serif:SourceSerifPro-Regular.otf
+Handwriting:handlee-regular.ttf
+Marker:Knewave.ttf
+Curly:Griffy-Regular.ttf
+Pixel:Grand9K-Pixel.ttf
+Scratch:Scratch.ttf
+PixelAlt:slkscr.ttf
