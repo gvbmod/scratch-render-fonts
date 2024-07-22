@@ -1,0 +1,7 @@
+generated-upload-script.sh
+node_modules/
+dist/
+build/
+packaged/
+upload.sh
+upload.bat
